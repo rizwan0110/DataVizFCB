@@ -33,12 +33,14 @@ This project showcases a data visualization dashboard created in Power BI, offer
 
 - Wikipedia
 
+
+## Link to the Dashboard
+
+https://app.powerbi.com/groups/me/reports/3cdd855b-1a97-494f-a929-f1bb078510b7/d0b37d859db4660d5958?e
+
 ### Data Limitations
 
--Only includes players who played across all 3 seasons
+- Only includes players who played across current and last 3 seasons
 
-- Excludes short-term or recently transferred players for consistency
-
-- Manual data extraction and cleaning to ensure dashboard accuracy
 
 
