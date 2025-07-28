@@ -42,5 +42,11 @@ https://app.powerbi.com/groups/me/reports/3cdd855b-1a97-494f-a929-f1bb078510b7/d
 
 - Only includes players who played across current and last 3 seasons
 
+## Files Attached
+
+- Screenshots of the Dashboard
+- pbix file for dashboard
+- excel sheet with data
+
 
 
