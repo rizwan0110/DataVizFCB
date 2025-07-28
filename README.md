@@ -1,5 +1,5 @@
 # Team & Player Performance Dashboard for FC Barcelona (Power BI Project)
-July 2025
+
 
 This project showcases a data visualization dashboard created in Power BI, offering detailed insights into FC Barcelona’s performance over the last three seasons (2022/23, 2023/24, 2024/25). The goal was to design an interactive and visually compelling tool for tracking both team performance and individual player contributions, highlighting trends across different competitions such as La Liga, Champions League, Copa del Rey, and Supercopa de España.
 
